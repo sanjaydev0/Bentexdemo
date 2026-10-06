@@ -1,0 +1,6 @@
+{
+  "name": "Swarna Fancy & Bentex Store",
+  "description": "Hyper-local Indian town e-commerce store and merchant admin dashboard for 1-gram gold, bentex, and imitation jewellery with WhatsApp ordering, automated invoices, and inventory analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
